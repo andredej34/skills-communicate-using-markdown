@@ -1,8 +1,5 @@
-# This is the biggest header
 
-## This is just a `<h2>`header
-###### This is the smallest
-
-# This is a Samurai Avatar
+# Bold,vibrant,and battle-ready-this Samurai Avatar radiates cyberpunk energy and warrior pride.
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
